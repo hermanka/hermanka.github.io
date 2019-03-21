@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lect on hermanka.github.io</title>
+    <link>https://hermanka.github.io/categories/lect/</link>
+    <description>Recent content in Lect on hermanka.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;HK 2019</copyright>
+    <lastBuildDate>Wed, 20 Mar 2019 13:41:51 +0700</lastBuildDate>
+    
+	<atom:link href="https://hermanka.github.io/categories/lect/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Struktur Data dan Algoritma Pemrograman</title>
+      <link>https://hermanka.github.io/lect/sdap/</link>
+      <pubDate>Wed, 20 Mar 2019 13:41:51 +0700</pubDate>
+      
+      <guid>https://hermanka.github.io/lect/sdap/</guid>
+      <description>&lt;p&gt;ini materi kuliah SDAP&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

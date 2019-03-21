@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hermanka.github.io</title>
+    <title>HermanKabetta</title>
     <link>https://hermanka.github.io/</link>
-    <description>Recent content on hermanka.github.io</description>
+    <description>Recent content on HermanKabetta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;HK 2019</copyright>
@@ -24,10 +24,19 @@
     <item>
       <title>Struktur Data dan Algoritma Pemrograman</title>
       <link>https://hermanka.github.io/lect/sdap/</link>
-      <pubDate>Wed, 20 Mar 2019 13:41:51 +0700</pubDate>
+      <pubDate>Wed, 06 Mar 2019 13:41:51 +0700</pubDate>
       
       <guid>https://hermanka.github.io/lect/sdap/</guid>
-      <description>&lt;p&gt;ini materi kuliah SDAP&lt;/p&gt;</description>
+      <description>&lt;p&gt;Struktur data dan Algoritma Pemrograman 2019&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sistem Operasi Lanjutan</title>
+      <link>https://hermanka.github.io/lect/sol/</link>
+      <pubDate>Tue, 05 Mar 2019 22:11:16 +0700</pubDate>
+      
+      <guid>https://hermanka.github.io/lect/sol/</guid>
+      <description>&lt;p&gt;Sistem Operasi Lanjutan 2019&lt;/p&gt;</description>
     </item>
     
   </channel>
