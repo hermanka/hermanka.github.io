@@ -1,0 +1,20 @@
+dn: dc=myserver,dc=local
+objectClass: top
+objectClass: dcObject
+objectclass: organization
+o: myserver local
+dc: myserver
+
+dn: cn=Manager,dc=myserver,dc=local
+objectClass: organizationalRole
+cn: Manager
+description: Directory Manager
+
+dn: ou=People,dc=myserver,dc=local
+objectClass: organizationalUnit
+ou: People
+
+dn: ou=Group,dc=myserver,dc=local
+objectClass: organizationalUnit
+ou: Group 
+Save the file and then add t

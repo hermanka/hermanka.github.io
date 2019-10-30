@@ -1,0 +1,16 @@
+dn: uid=subzero,ou=People,dc=myserver,dc=local
+objectClass: top
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: subzero
+uid: subzero
+uidNumber: 1005
+gidNumber: 1005
+homeDirectory: /home/subzero
+userPassword: {SSHA}PASSWORD_HERE
+loginShell: /bin/bash
+gecos: subzero
+shadowLastChange: 0
+shadowMax: 0
+shadowWarning: 0
