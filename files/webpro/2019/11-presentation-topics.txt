@@ -1,0 +1,12 @@
+Presentation and Practice :
+1. Web Socket
+2. Asynchronous Javascript and XMLHTTP (AJAX)
+3. RESTful Web Service / REST API
+4. Progressive Web Apps (PWA)
+5. Single Page Application (SPA)
+6. Content Management System (CMS)
+7. Static Site Generator (SSG)
+
+Note :
+- Don't forget about 5W-1H
+- Teach your friends!
