@@ -7,35 +7,62 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;HK 2019</copyright>
-    <lastBuildDate>Thu, 19 Sep 2019 15:44:47 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2020 09:42:07 +0700</lastBuildDate>
     
 	<atom:link href="https://hermanka.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Algoritma dan Pemrograman Lanjut</title>
+      <link>https://hermanka.github.io/lectures/alpro/</link>
+      <pubDate>Thu, 27 Feb 2020 09:42:07 +0700</pubDate>
+      
+      <guid>https://hermanka.github.io/lectures/alpro/</guid>
+      <description>&lt;p&gt;Algoritma dan Pemrograman Lanjut 2020&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fundamental Keamanan Jaringan</title>
+      <link>https://hermanka.github.io/lectures/netsec/</link>
+      <pubDate>Thu, 27 Feb 2020 09:42:07 +0700</pubDate>
+      
+      <guid>https://hermanka.github.io/lectures/netsec/</guid>
+      <description>&lt;p&gt;Fundamental Keamanan Jaringan 2020&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pemrograman Desktop</title>
+      <link>https://hermanka.github.io/lectures/deskpro/</link>
+      <pubDate>Thu, 27 Feb 2020 09:42:07 +0700</pubDate>
+      
+      <guid>https://hermanka.github.io/lectures/deskpro/</guid>
+      <description>&lt;p&gt;Pemrograman Desktop 2020&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Software Testing</title>
-      <link>https://hermanka.github.io/archive/stes/</link>
+      <link>https://hermanka.github.io/archives/stes/</link>
       <pubDate>Thu, 19 Sep 2019 15:44:47 +0700</pubDate>
       
-      <guid>https://hermanka.github.io/archive/stes/</guid>
+      <guid>https://hermanka.github.io/archives/stes/</guid>
       <description>&lt;p&gt;Software Testing 2019&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Web Programming</title>
-      <link>https://hermanka.github.io/archive/webpro/</link>
+      <link>https://hermanka.github.io/archives/webpro/</link>
       <pubDate>Thu, 19 Sep 2019 15:42:50 +0700</pubDate>
       
-      <guid>https://hermanka.github.io/archive/webpro/</guid>
+      <guid>https://hermanka.github.io/archives/webpro/</guid>
       <description>&lt;p&gt;Web Programming 2019&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Operating System Security</title>
-      <link>https://hermanka.github.io/archive/oss/</link>
+      <link>https://hermanka.github.io/archives/oss/</link>
       <pubDate>Thu, 19 Sep 2019 15:42:07 +0700</pubDate>
       
-      <guid>https://hermanka.github.io/archive/oss/</guid>
+      <guid>https://hermanka.github.io/archives/oss/</guid>
       <description>&lt;p&gt;Operating System Security 2019&lt;/p&gt;</description>
     </item>
     
@@ -50,19 +77,19 @@
     
     <item>
       <title>Struktur Data dan Algoritma Pemrograman</title>
-      <link>https://hermanka.github.io/archive/sdap/</link>
+      <link>https://hermanka.github.io/archives/sdap/</link>
       <pubDate>Wed, 06 Mar 2019 13:41:51 +0700</pubDate>
       
-      <guid>https://hermanka.github.io/archive/sdap/</guid>
+      <guid>https://hermanka.github.io/archives/sdap/</guid>
       <description>&lt;p&gt;Struktur data dan Algoritma Pemrograman 2019&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Sistem Operasi Lanjutan</title>
-      <link>https://hermanka.github.io/archive/sol/</link>
+      <link>https://hermanka.github.io/archives/sol/</link>
       <pubDate>Tue, 05 Mar 2019 22:11:16 +0700</pubDate>
       
-      <guid>https://hermanka.github.io/archive/sol/</guid>
+      <guid>https://hermanka.github.io/archives/sol/</guid>
       <description>&lt;p&gt;Sistem Operasi Lanjutan 2019&lt;/p&gt;</description>
     </item>
     
